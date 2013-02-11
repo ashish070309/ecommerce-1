@@ -1,0 +1,24 @@
+2012-10-13 22:07:07 - PHP Notice:  getimagesize(): Read error! in /home/arihantgems/system/library/image.php on line 11
+2012-10-13 22:07:17 - PHP Notice:  getimagesize(): Read error! in /home/arihantgems/system/library/image.php on line 11
+2012-10-13 22:07:30 - PHP Notice:  getimagesize(): Read error! in /home/arihantgems/system/library/image.php on line 11
+2012-11-03 2:07:18 - PHP Warning:  file_get_contents(/home/arihantgems/system/cache/cache.product.total.1.0.1.e33fea8b7adeb047dbb211655dc42710.1351912037): failed to open stream: No such file or directory in /home/arihantgems/system/library/cache.php on line 9
+2012-11-21 2:03:21 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.ef9699d81c2d45fa5ed8f495cd599b27.1353461102): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-22 12:08:39 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.af90388eaadac94fc4765a700c91248b.1353585852): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-22 12:08:39 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.currency.1353585852): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-23 12:44:52 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.currency.1353668825): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-23 20:07:12 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.ef9699d81c2d45fa5ed8f495cd599b27.1353700013): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:05 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.ef9699d81c2d45fa5ed8f495cd599b27.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:06 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.af90388eaadac94fc4765a700c91248b.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:06 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.2acf3a790e9efdc766d79b560d853cdd.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:06 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.539b99a9c6ce62fc75b10ba832b2ce1b.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:06 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.8c6cf9ecfdbb2edbafc0a89b72d92d8e.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:06 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.67a0357add9daffdf1b8e45f33f4003f.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-11-24 18:51:06 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.currency.1353778987): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-12-05 21:45:48 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.3ab6383f48f3f14cf1e59231406988c8.1354747324): No such file or directory in /home/arihantgems/system/library/cache.php on line 45
+2012-12-30 6:55:38 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.currency.1356849288): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2012-12-30 6:55:40 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.ef9699d81c2d45fa5ed8f495cd599b27.1356854138): No such file or directory in /home/arihantgems/system/library/cache.php on line 45
+2013-01-06 0:38:47 - PHP Warning:  unlink(/home/arihantgems/system/cache/cache.product.total.1.0.1.539b99a9c6ce62fc75b10ba832b2ce1b.1357429118): No such file or directory in /home/arihantgems/system/library/cache.php on line 18
+2013-01-06 12:34:45 - PHP Notice:  Undefined index: model in /home/arihantgems/admin/controller/catalog/product.php on line 1189
+2013-01-06 12:34:45 - PHP Notice:  Undefined index: tag in /home/arihantgems/admin/view/template/catalog/product_form.tpl on line 49
+2013-01-11 15:27:43 - PHP Warning:  file_get_contents(/home/arihantgems/system/cache/cache.product.total.1.0.1.2acf3a790e9efdc766d79b560d853cdd.1357921663): failed to open stream: No such file or directory in /home/arihantgems/system/library/cache.php on line 9
+2013-01-11 15:27:46 - PHP Warning:  file_get_contents(/home/arihantgems/system/cache/cache.product.total.1.0.1.1800bd561f72bbc2b1891792e1476c68.1357921665): failed to open stream: No such file or directory in /home/arihantgems/system/library/cache.php on line 9
