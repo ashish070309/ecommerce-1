@@ -19,10 +19,12 @@
 <?php foreach ($links as $link) { ?>
 <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/fashioncart/stylesheet/stylesheet.css" /><!--This is the CSS which i am removing!! because we are using foundation -->
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/fashioncart/foundation/stylesheets/foundation.min.css" /> <!-- Now removed  -->
+<lin rel="stylesheet" type="text/css" href="catalog/view/theme/fashioncart/foundation/stylesheets/app.css"/>
 <?php foreach ($styles as $style) { ?>
 <link rel="<?php echo $style['rel']; ?>" type="text/css" href="<?php echo $style['href']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>
+<script src="catalog/view/theme/fashioncart/foundation/javascripts/modernizr.foundation.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
@@ -33,6 +35,9 @@
 <script type="text/javascript" src="catalog/view/javascript/common.js"></script>
 <script type="text/javascript" src="catalog/view/theme/fashioncart/javascript/fashioncart_custom.js"></script>
 <script type="text/javascript" src="catalog/view/theme/fashioncart/javascript/cloud_zoom.js"></script>
+<script src="catalog/view/theme/fashioncart/foundation/javascripts/foundation.min.js"></script>
+ <script src="catalog/view/theme/fashioncart/foundation/javascripts/app.js"></script>
+
 
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
 
@@ -61,8 +66,8 @@ DD_belatedPNG.fix('#logo img');
 <script type="text/javascript" charset="utf-8">
   BAROMETER.load('jMjqrhOt8jsSranMj9gGz');
 </script>
--->
-<div id="container">
+
+<div class="row">
 
 <div id="header">
   <?php if ($logo) { ?>

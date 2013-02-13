@@ -1,12 +1,12 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/opencart/');
-define('HTTP_IMAGE', 'http://localhost/opencart/image/');
-define('HTTP_ADMIN', 'http://localhost/opencart/admin/');
+define('HTTP_SERVER', 'http://192.168.0.102/opencart/');
+define('HTTP_IMAGE', 'http://192.168.0.102/opencart/image/');
+define('HTTP_ADMIN', 'http://192.168.0.102/opencart/admin/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/opencart/');
-define('HTTPS_IMAGE', 'http://localhost/opencart/image/');
+define('HTTPS_SERVER', 'http://192.168.0.102/opencart/');
+define('HTTPS_IMAGE', 'http://192.168.0.102/opencart/image/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/opencart/catalog/');
