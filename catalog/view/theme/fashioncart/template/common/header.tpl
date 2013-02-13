@@ -19,7 +19,7 @@
 <?php foreach ($links as $link) { ?>
 <link href="<?php echo $link['href']; ?>" rel="<?php echo $link['rel']; ?>" />
 <?php } ?>
-<link rel="stylesheet" type="text/css" href="catalog/view/theme/fashioncart/stylesheet/stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/fashioncart/stylesheet/stylesheet.css" /><!--This is the CSS which i am removing!! because we are using foundation -->
 <?php foreach ($styles as $style) { ?>
 <link rel="<?php echo $style['rel']; ?>" type="text/css" href="<?php echo $style['href']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>
