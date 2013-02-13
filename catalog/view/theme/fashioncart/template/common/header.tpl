@@ -60,16 +60,27 @@ DD_belatedPNG.fix('#logo img');
 <?php echo $google_analytics; ?>
 </head>
 <body>
-<!--feedback-->
-<style type='text/css'>@import url('http://getbarometer.s3.amazonaws.com/assets/barometer/css/barometer.css');</style>
+
+<!--feedback--><!--Feedback i am removing this because it's not needed!!-->
+<!--<style type='text/css'>@import url('http://getbarometer.s3.amazonaws.com/assets/barometer/css/barometer.css');</style>
 <script src='http://getbarometer.s3.amazonaws.com/assets/barometer/javascripts/barometer.js' type='text/javascript'></script>
 <script type="text/javascript" charset="utf-8">
   BAROMETER.load('jMjqrhOt8jsSranMj9gGz');
-</script>
-
+</script>-->
+<div class="container top-bar home-border">
+    <div class="attached">
+      <div class="name" onclick="void(0);">
+       <div class="row"> <span><?php if ($logo) { ?>
+  <div style="margin-top: 10px;"><a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" /></a></div>
+  <?php } ?>
+</span></div>
+  		</div>
+  	</div>
+  </div>
 <div class="row">
 
-<div id="header">
+
+<div class="three columns">
   <?php if ($logo) { ?>
   <div id="logo"><a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" /></a></div>
   <?php } ?>
